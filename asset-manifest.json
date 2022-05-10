@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OwlnMilo/numTagApp.git/static/css/main.073c9b0a.css",
+    "main.js": "/OwlnMilo/numTagApp.git/static/js/main.d7267b7d.js",
+    "static/js/787.72f67152.chunk.js": "/OwlnMilo/numTagApp.git/static/js/787.72f67152.chunk.js",
+    "index.html": "/OwlnMilo/numTagApp.git/index.html",
+    "main.073c9b0a.css.map": "/OwlnMilo/numTagApp.git/static/css/main.073c9b0a.css.map",
+    "main.d7267b7d.js.map": "/OwlnMilo/numTagApp.git/static/js/main.d7267b7d.js.map",
+    "787.72f67152.chunk.js.map": "/OwlnMilo/numTagApp.git/static/js/787.72f67152.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d7267b7d.js"
+  ]
+}
